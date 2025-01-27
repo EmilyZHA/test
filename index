@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>感谢信</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        p {
+            line-height: 1.6;
+            font-size: 16px;
+        }
+        .gif-container {
+            margin: 20px 0;
+        }
+        .signature {
+            margin-top: 30px;
+            font-style: italic;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>亲爱的Mentor和Manager：</h1>
+        <p>
+            在我即将离开公司之际，我想借此机会向您们表达我最诚挚的感谢。在过去的时光里，您们不仅在工作中给予了我极大的支持和指导，还让我在职业和个人成长方面受益匪浅。
+        </p>
+        <p>
+            特别感谢Mentor的耐心指导和无私分享，您的经验和智慧让我少走了许多弯路。同时，感谢Manager的信任和鼓励，让我有机会不断挑战自我，提升能力。
+        </p>
+        <p>
+            虽然我即将开启新的旅程，但我会永远珍惜在这里的每一段回忆。希望未来我们还能保持联系，共同见证彼此的成长与成功。
+        </p>
+        <div class="gif-container">
+            <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" alt="Thank You GIF" style="width: 200px;">
+        </div>
+        <p>
+            祝愿您们和团队在未来的日子里，事业蒸蒸日上，生活幸福美满！期待我们再次相遇的那一天！
+        </p>
+        <p class="signature">
+            此致<br>
+            敬礼<br>
+            [您的名字]<br>
+            [日期]
+        </p>
+    </div>
+</body>
+</html>
